@@ -3,9 +3,11 @@
 Exploratory testing is testing **without a script, but with a goal**. You learn, design and run tests at the same time.
 A charter keeps the session focused, and notes make it reviewable.
 
-A common charter format:
+A simple charter format:
 
 > **Explore** *(target)* **with** *(resources, tools, data)* **to discover** *(what kind of information/risk)*
+
+This charter format comes from Elisabeth Hendrickson's book *Explore It!* (Pragmatic Bookshelf, 2013).
 
 ---
 
