@@ -95,4 +95,4 @@ This library grows as I keep learning and testing. Suggestions and corrections a
 
 ## License
 
-[CC BY 4.0](LICENSE): free to use and adapt, with credit.
+Copyright © 2026 Aysu Ismayilzada. Licensed under [CC BY 4.0](LICENSE): free to use and adapt, with credit.
